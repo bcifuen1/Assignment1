@@ -1,46 +1,107 @@
-#**Plaid: Open Banking and the Patchwork of New Financial Service Options**
+# **Plaid: Open Banking and the Patchwork of New Financial Service Options**
 
-![alt text](plaid-logo-dark-horizontal-RGB.svg)
+___
 
-##**Landscape:**
+![Plaid](https://plaid.com/assets/img/social-card-landscape.jpg)
+
+___
+
+## **Landscape:**
+
+___
+
 Traditionally, the provision of services offered by financial institutions, such as banks, is centralized within a specific organization. In essence, the customer trades their ability to easily access other banks' services or offerings for the promise of information security and financial safety. The bank then has the ability to profit from retaining that customer, who in losing the potential to quickly gain information about better offers, remains the bank's loyal customer. 
 
 Technology provides many avenues for disruption within this dynamic. Open banking, for example, allows for the decentralization of rights over the usage of customer data from a single financial institution to third parties who can then utilize this information to widen the range of services and options made available to the customer. It additionally increases competitiveness within the financial industry by lowering the cost of market entry, and forcing larger well-established financial insitutions to compete with smaller more dynamic companies, ultimately increasing the pace of innovation, while ameliorating customer service. A 2017 McKinsey report succinctly describes the effect of the advent of open banking on traditional banks by stating: 
 
->*"New digital entrants are...having an impact on bank performance, particularly by threatening the customer relationship and margin erosion across retail segments...and [it is] are happening faster than expected".* [^1] 
+>*"New digital entrants are...having an impact on bank performance, particularly by threatening the customer relationship and margin erosion across retail segments...and [it is] happening faster than expected".* [^1] 
 
 Initial movement toward the creation of open banking options include services such as Mint, which utilize screen scraping to aggregate customers' financial information in one platform. Open banking takes this a step further by utilizing APIs (Application Programming Interfaces) to share financial infomration between banks and third party financial service providers. [^2] There are a number of players in this space, from large companies such as Alibaba, Amazon, and Tencent, to traditional large banks in partnership (Standard Chartered and GlobalTrade, Royal Bank of Scotland and Taulia, and Barclays and Wave), to small startups seeking market entry through innovation. 
 
-Major trends and innovations in open banking have largely depended on a specific market's geography. For example, Alibaba, an e-commerce company has diversified into lending, asset management, and business to business services in China. Rakuten Ichiba, a Japanese online marketplace, issues credit cards to its customers and offers other financial services. In the US, however, despite moves from large companies such as Amazon and Facebook, there is no single company that houses such a wide variety of services under its organization's umbrella, at least not to the extent shown by market players in other countries. [^1] In essence, technology is actively breaking down barriers between customers and financial institutions, thus creating spaces McKinsey calls "ecosystems", which lower consumer costs and increase the ease of tool and platform utilization. Plaid CEO Zach Perret expects "... our financial
-lives to become increasingly digital, automated, and data driven" within five to ten years. [^3] We do not yet know how quickly technology will change the landscape of the financial industry, but we can already see the potential for impact on traditional players, regulators, consumers, and other institutions.
+Major trends and innovations in open banking have largely depended on a specific market's geography. For example, Alibaba, an e-commerce company has diversified into lending, asset management, and business to business services in China. Rakuten Ichiba, a Japanese online marketplace, issues credit cards to its customers and offers other financial services. In the US, however, despite moves from large companies such as Amazon and Facebook, there is no single company that houses such a wide variety of services under its organization's umbrella, at least not to the extent shown by market players in other countries. [^1] 
 
-##**Overview and Origin**
-*
-Plaid, a fintech startup working in open banking, and incorporated in 2013
-*Incorporated May 2013
-*Who are the founders of the company?
-*How did the idea for the company (or project) come about?
-*How is the company funded? how much funding have they received?
+Overall, technology is actively breaking down barriers between customers and financial institutions, thus creating spaces McKinsey calls "ecosystems", which lower consumer costs and increase the ease of tool and platform utilization. Due to these changes, Plaid CEO Zach Perret expects "... our financial lives to become increasingly digital, automated, and data driven" within the next five to ten years. [^3] We do not yet know how quickly or the full extent to which technology will change the landscape of the financial industry, but we can already see the potential for large-scale wide-ranging impact on traditional players, regulators, consumers, and other institutions.
 
-##**Business Activities** 
-*What specific financial problem is the company or project trying to solve?
-*Who is the company's intended customer? Is there any finromation about the market size of this set of customers? What solution does this company offer that theri competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-*Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing--you may want to search the company's engineerig blog or use sites like stackshare to find this information.)
+___
+
+## **Overview and Origin**
+
+___
+
+![Plaid Founders, William Hockey and Zach Perret](https://image.cnbcfm.com/api/v1/image/105481536-15384263044761..jpeg?v=1538587188&w=630&h=354)
+
+Plaid, founded in 2012 by William Hockey and Zach Perret, is a fintech startup based in San Francisco, and working in open banking. [^4] Hockey and Perret founded the company in order to fill a need they identified, namely that it used to be extremely difficult to connect to consumer bank accounts, thus hampering efforts to create financial technology products that could be used to work within this space. [^3] Specifically, they are able to offer "...clean transaction data such as merchant names, addresses, and geocodes". The idea garnered backing from Spark Capital, Google Ventures, New Enterprise Associates, Felicis Ventures, and Homebrew Capital, to the tune of USD 2.8 million just a year after it was founded. [^5] By 2018, Plaid raised USD 250 million at a USD 2.7 billion valuation (in which Mastercard and Visa participated), up from a previous USD 44 million Series B round funding at a USD 225 million valuation.[^6] On January 13 of 2020, Visa announced that it would be purchasing Plaid for USD 5.3 billion (twice its valuation), only a year after the latter had announced that it would be acquiring its biggest competitor, Quovo, for USD 200 million. [^8] 
+
+___ 
+
+## **Business Activities** 
+
+___
+
+At its core, Plaid seeks to answer the question of consumer ownership over their financial data. Banks and other "traditional" financial institutions have long held a monopoly over this cache of information with, up until now, little to no incentive to share it. With the potential for disruption from the technology sector, banks now find themselves forced to accede to these developmnents, lest they lose out profits from what soon will become a highly fragmented and competitive industry. In a more granular level, Plaid has sought to create the foundation for some of today's most ubiquitous fintech tools, among them Venmo, Robinhood, Coinbase, Acorns and LendingClub. [^9] In effect:
+
+>*"[ fintech ] applications rely on Plaid’s protocol known as application programming interface, or API. While the software is not unique to the banking sector, Plaid’s version does a lot of the heavy lifting on the back end that could otherwise take days. Without a third party like Plaid, start-ups would have to hire their own engineers and create their own ways to sync with banks."* [^6]
+
+In other words, they provide the pumbling that lubricates the interfaces and platforms that customers utilize when carrying out a specific transaction. So while their target customers are developers, they are ultimately targetting the whole market from the average customer up. Plaid benefits from early entry into this space, which prioritized funding their way, and allowed them to partner up with major players, ranging from venture capital, to up and coming start ups, to major credit card companies. 
+
+The company uses the following tools[^10]:
+
+    1. Application and Data 
+        - Python
+        - Node.js
+        - React
+        - MySQL
+        - MongoDB
+        - Redis
+        - TypeScript
+        - Sass
+        - Amazon CloudFront
+        - AWS Lambda
+        - gRPC
+
+    2. Utilities
+        - Stack Overflow
+        - Elastic Search
+
+    3. DevOps
+        - Git
+        - Docker
+        - Kibana
+        - Sentry
+        - Amazon EC2 Container Service
+        - Grafana
+        - Logstash
+        - BrowserStack
+
+    4. Business
+        - Slack
+        - Salesforce Sales Cloud
+
+___
+
+## **Results and Recommendations** 
+___
+
+Plaid's success in its various rounds of funding, and ultimately its acquisition by Visa are a testament to this ingenous start-up's success. It is argued that "the $5.3 Billion deal...(double the company’s most recent valuation of $2.65 billion)...signals one of the largest corporate commitments to fintech and open banking the financial world has yet seen". [^10] Additionally, its widespread presence among some of the most well-known and popular fintech platforms are all positive harbingers of what is to come for the company and the industry as a whole.
 
 
 
-##**Results** 
-*What has been the business impact of this company so far?
-*What are some of the core metrics that companies in this domain use to measure success? how is your company performning, based on these metrics?
-*How is your company performing relative to competitors in the same domain?
 
-##**Recommendations**
-*IF you were to advise the company, what products or services would you suggest they offer? (This could be something a competitor offers, or use your imagination!)
-*Why do you think that offering this product or service would benefit the company?
-*What technologies would this additional prduct or service utilize?
-*Why are these technologies appropriate for your solution?
+![Potential for Disruption](https://www.mckinsey.com/~/media/McKinsey/Industries/Financial%20Services/Our%20Insights/Remaking%20the%20bank%20for%20an%20ecosystem%20world/SVGZ_Remaking-the-bank-for-an-ecosystem-world_Ex4.svgz) 
 
-BANKS CAN COMPETE OR NOT, BUT IF THEY DONT THEY STAND TO LOSE OUT, WHEREAS IF THEY PARTICIPATE THEYLL LOSE OUT BUT NOT BY AS MUCH 
+**BANKS CAN COMPETE OR NOT, BUT IF THEY DONT THEY STAND TO LOSE OUT, WHEREAS IF THEY PARTICIPATE THEYLL LOSE OUT BUT NOT BY AS MUCH**
 
-[^1] https://www.mckinsey.com/industries/financial-services/our-insights/remaking-the-bank-for-an-ecosystem-world 
-[^2] https://www.investopedia.com/terms/o/open-banking.asp
+[^1] : https://www.mckinsey.com/industries/financial-services/our-insights/remaking-the-bank-for-an-ecosystem-world 
+[^2] : https://www.investopedia.com/terms/o/open-banking.asp
+[^3] : https://www.mckinsey.com/~/media/McKinsey/Industries/Financial%20Services/Our%20Insights/Open%20bankings%20next%20wave%20Perspectives%20from%20three%20fintech%20CEOs/Open-bankings-next-wave.pdf
+[^4] : https://www.crunchbase.com/organization/plaid 
+[^5] : https://techcrunch.com/2013/09/19/plaid-funding/ 
+[^6] : https://www.cnbc.com/2018/12/11/plaids-250-million-funding-round-propels-it-to-2point7-billion-valuation.html
+[^7] : https://techcrunch.com/2020/01/13/visa-is-acquiring-plaid-for-5-3-billion-2x-its-final-private-valuation/
+[^8] : https://www.businessinsider.com/plaid-acquires-quovo-2019-1 
+[^9] : https://techcrunch.com/2019/06/18/fresh-off-a-2-65b-valuation-plaid-co-founder-william-hockey-is-leaving/
+[^10] : https://stackshare.io/plaid/plaid 
+[] : https://stackshare.io/plaid/plaid
+
+
+~~including this for shits and giggles.~~
