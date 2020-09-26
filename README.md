@@ -1,14 +1,11 @@
-# P
+#**Plaid: Open Banking and the Patchwork of New Wave of Financial Service Options**
 
 ##**Landscape:**
-Traditionally, services offered by financial institutions, such as a bank, have been centralized within a specific organization. In essence, the customer trades their ability to easily access to other banks' services or offerings for the promise of security and potential reward. The bank then has the ability to profit from retaining that customer, who in losing the potential to quickly gain information about better offers, remains the bank's loyal customer. 
+Traditionally, the provision of services offered by financial institutions, such as banks, is centralized within a specific organization. In essence, the customer trades their ability to easily access other banks' services or offerings for the promise of information security and financial safety. The bank then has the ability to profit from retaining that customer, who in losing the potential to quickly gain information about better offers, remains the bank's loyal customer. 
 
-Technology provides many avenues for disruption within this dynamic. Open banking, for example, allows for the decentralization of rights over the usage of customer data from a single financial institution to third parties who can then utilize this information to widen the range of services and options made available to the customer. It additionally increases competitiveness within the financial industry by lowering the cost of market entry, and forcing larger well established financial insitutions to compete with smaller more dynamic companies, ultimately increasing the pace of innovation and bettering customer service. 
+Technology provides many avenues for disruption within this dynamic. Open banking, for example, allows for the decentralization of rights over the usage of customer data from a single financial institution to third parties who can then utilize this information to widen the range of services and options made available to the customer. It additionally increases competitiveness within the financial industry by lowering the cost of market entry, and forcing larger well-established financial insitutions to compete with smaller more dynamic companies, ultimately increasing the pace of innovation, while ameliorating customer service. A 2017 McKinsey report succinctly describes the effect of the advent of open banking on traditional banks by stating: "New digital entrants are...having an impact on bank performance, particularly by threatening the customer relationship and margin erosion across retail segments...and [it is] are happening faster than expected". [^1] 
 
-Initial movement toward the creation of open banking options include services such as Mint, which utilizes 
-What domain of the financial industry is the company in?
-*What have been the major trends and innovations of this domain over the last 5-10 years?
-*What are the other major companies in this domain?
+Initial movement toward the creation of open banking options include services such as Mint, which utilize screen scraping to aggregate customers' financial information in one platform. Open banking takes this a step further by utilizing APIs (Application Programming Interfaces) to share financial infomration between banks and third party financial service providers. [^2] There are a number of players in this space, from large companies such as Alibaba, Amazon, and Tencent, to traditional large banks in partnership (Standard Chartered and GlobalTrade, Royal Bank of Scotland and Taulia, and Barclays and Wave), to small startups seeking market entry through innovation. Major trends and innovations in open banking have largely depended on a specific market's geography. For example, Alibaba, an e-commerce company has diversified into lending, asset management, and business to business services in China. Rakuten Ichiba, a Japanese online marketplace, issues credit cards to its customers and offers other financial services. In the US, however, despite moves from large companies such as Amazon and Facebook, there is no single company that houses such a wide variety of services under its organization's umbrella, at least not to the extent shown by market players in other countries. [^1]
 
 ##**Overview and Origin**
 *Plaid  
@@ -35,3 +32,7 @@ What domain of the financial industry is the company in?
 *What technologies would this additional prduct or service utilize?
 *Why are these technologies appropriate for your solution?
 
+BANKS CAN COMPETE OR NOT, BUT IF THEY DONT THEY STAND TO LOSE OUT, WHEREAS IF THEY PARTICIPATE THEYLL LOSE OUT BUT NOT BY AS MUCH 
+
+[^1] https://www.mckinsey.com/industries/financial-services/our-insights/remaking-the-bank-for-an-ecosystem-world 
+[^2] https://www.investopedia.com/terms/o/open-banking.asp
